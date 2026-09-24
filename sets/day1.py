@@ -29,19 +29,23 @@
 #     num = int(input("enter any number:"))
 # print(sum)
 
-#union
 A={1,2,3,4}
 B={3,4,5,6}
-# print(A|B)
-# print(A.union(B))
+#union
+print(A|B)
+print(A.union(B))
 
 #Intersection
-# print(A&B)
-# print(A.intersection(B))
+print(A&B)
+print(A.intersection(B))
 
 #Difference
-# print(A-B)
-# print(A.difference(B))
+print(A-B)
+print(A.difference(B))
 
-# print(B-A)
-# print(B.difference(A))
+print(B-A)
+print(B.difference(A))
+
+#Systematic differnce
+print(A^B)
+print(B^A)
