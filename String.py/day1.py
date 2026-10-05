@@ -18,13 +18,13 @@
 # name = name.strip()
 # print(name)
 
-name="Abhayjeet kumar"
-#find
-print(name.find("bhay"))
-print(name.find("snake"))
-#count
-print(name.count("e"))
-#replace
-print(name.replace("kumar","singh"))
+# name="Abhayjeet kumar"
+# #find
+# print(name.find("bhay"))
+# print(name.find("snake"))
+# #count
+# print(name.count("e"))
+# #replace
+# print(name.replace("kumar","singh"))
 
 

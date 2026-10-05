@@ -31,3 +31,8 @@ print(student.values())
 
 #items
 print(student.items())
+
+#Nested dictionary
+student = {
+    
+}
