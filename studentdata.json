@@ -1,0 +1,26 @@
+[
+    {
+        "roll_no": 201,
+        "name": "Tony shark",
+        "total_marks": 98,
+        "Avg_marks": 66
+    },
+    {
+        "roll_no": 202,
+        "name": "Iron Man",
+        "total_marks": 98,
+        "Avg_marks": 66
+    },
+    {
+        "roll_no": 203,
+        "name": "Dr. JH Atul Das",
+        "total_marks": 98,
+        "Avg_marks": 66
+    },
+    {
+        "roll_no": 204,
+        "name": "Dr.Jhatka",
+        "total_marks": 98,
+        "Avg_marks": 66
+    }
+]
